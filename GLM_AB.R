@@ -62,7 +62,7 @@ ggplot(specific_crass_adult_subset, aes(x=Temp, y=Survival_24hr, color=Host_spec
   xlab("Temperature (C)")+
   ylab("Survival (Dead/Alive)")+
   labs(color="Host Species")+
-  geom_smooth(aes(linetype=Host_species), method="glm", linewidth=1.5,method.args=list(family="binomial"), se=FALSE)+
+  geom_smooth(method="glm", linewidth=1.5,method.args=list(family="binomial"), se=FALSE)+
   scale_color_manual(values=c("Beech"="darkgrey","Red Maple"="black"))+
   geom_hline(data=data.frame(c(0.50)), aes(yintercept=c(0.50)), color="darkgray", linetype="dashed")+theme_classic()+
   theme(axis.text=element_text(size=15))+theme(axis.title=element_text(size=14))+
@@ -92,7 +92,7 @@ ggplot(specific_crass_larvae_subset, aes(x=Temp, y=Survival_24hr, color=Host_spe
   xlab("Temperature (C)")+
   ylab("Survival (Dead/Alive)")+
   labs(color="Host Species")+
-  geom_smooth(aes(linetype=Host_species), method="glm", linewidth=1.5, method.args=list(family="binomial"), se=FALSE)+
+  geom_smooth(method="glm", linewidth=1.5, method.args=list(family="binomial"), se=FALSE)+
   scale_color_manual(values=c("Beech"="darkgrey","Red Maple"="black"))+
   geom_hline(data=data.frame(c(0.50)), aes(yintercept=c(0.50)), color="darkgray", linetype="dashed")+theme_classic()+
   theme(axis.text=element_text(size=15))+theme(axis.title=element_text(size=14))+
@@ -194,7 +194,7 @@ ggplot(specific_germanus_adult_subset, aes(x=Temp, y=Survival_24hr, color=Host_s
   xlab("Temperature (C)")+
   ylab("Survival (Dead/Alive)")+
   labs(color="Host Species")+
-  geom_smooth(aes(linetype=Host_species), method="glm", linewidth=1.5, method.args=list(family="binomial"), se=FALSE)+
+  geom_smooth(method="glm", linewidth=1.5, method.args=list(family="binomial"), se=FALSE)+
   scale_color_manual(values=c("Beech"="darkgrey","Red Maple"="black"))+
   geom_hline(data=data.frame(c(0.50)), aes(yintercept=c(0.50)), color="darkgray", linetype="dashed")+theme_classic()+
   theme(axis.text=element_text(size=15))+theme(axis.title=element_text(size=14))+
@@ -224,7 +224,7 @@ ggplot(specific_germanus_larvae_subset, aes(x=Temp, y=Survival_24hr, color=Host_
   xlab("Temperature (C)")+
   ylab("Survival (Dead/Alive)")+
   labs(color="Host Species")+
-  geom_smooth(aes(linetype=Host_species), method="glm", linewidth=1.5, method.args=list(family="binomial"), se=FALSE)+
+  geom_smooth(method="glm", linewidth=1.5, method.args=list(family="binomial"), se=FALSE)+
   scale_color_manual(values=c("Beech"="darkgrey","Red Maple"="black"))+
   geom_hline(data=data.frame(c(0.50)), aes(yintercept=c(0.50)), color="darkgray", linetype="dashed")+theme_classic()+
   theme(axis.text=element_text(size=15))+theme(axis.title=element_text(size=14))+
@@ -325,7 +325,7 @@ ggplot(specific_maiche_adult_subset, aes(x=Temp, y=Survival_24hr, color=Host_spe
   xlab("Temperature (C)")+
   ylab("Survival (Dead/Alive)")+
   labs(color="Host Species")+
-  geom_smooth(aes(linetype=Host_species), method="glm", linewidth=1.5, method.args=list(family="binomial"), se=FALSE)+
+  geom_smooth(method="glm", linewidth=1.5, method.args=list(family="binomial"), se=FALSE)+
   scale_color_manual(values=c("Beech"="darkgrey","Red Maple"="black"))+
   geom_hline(data=data.frame(c(0.50)), aes(yintercept=c(0.50)), color="darkgray", linetype="dashed")+theme_classic()+
   theme(axis.text=element_text(size=15))+theme(axis.title=element_text(size=14))+
@@ -355,7 +355,7 @@ ggplot(specific_maiche_larvae_subset, aes(x=Temp, y=Survival_24hr, color=Host_sp
   xlab("Temperature (C)")+
   ylab("Survival (Dead/Alive)")+
   labs(color="Host Species")+
-  geom_smooth(aes(linetype=Host_species), method="glm", linewidth=1.5, method.args=list(family="binomial"), se=FALSE)+
+  geom_smooth(method="glm", linewidth=1.5, method.args=list(family="binomial"), se=FALSE)+
   scale_color_manual(values=c("Beech"="darkgrey","Red Maple"="black"))+
   geom_hline(data=data.frame(c(0.50)), aes(yintercept=c(0.50)), color="darkgray", linetype="dashed")+theme_classic()+
   theme(axis.text=element_text(size=15))+theme(axis.title=element_text(size=14))+
