@@ -1,0 +1,1073 @@
+Host_species,Rep#,Temp,Couple#,Slot,Species,Lifestage,Survival_0min,Survival_1hr,Survival_4hr,Survival_24hr
+Red Maple,1,45,2A,Z1,X. crassiusculus,Adult,1,1,1,1
+Red Maple,1,49,6A,X1,X. crassiusculus,Adult,0,0,0,0
+Red Maple,1,54,1B,Y4,X. crassiusculus,Adult,0,0,0,0
+Red Maple,1,59,4A,Y2,X. crassiusculus,Adult,0,0,0,0
+Red Maple,1,64,3B,Y1,X. crassiusculus,Adult,0,0,0,0
+Red Maple,1,69,3A,Y3,X. crassiusculus,Adult,0,0,0,0
+Red Maple,1,45,0B,X4,A. maiche,Larvae,0,0,0,0
+Red Maple,1,49,2B,Z3,A. maiche,Larvae,0,0,0,0
+Red Maple,1,54,5A,X2,A. maiche,Larvae,0,0,0,0
+Red Maple,1,59,1A,X3,A. maiche,Larvae,0,0,0,0
+Red Maple,1,64,0A,Z4,A. maiche,Larvae,0,0,0,0
+Red Maple,1,69,7A,Z2,A. maiche,Larvae,0,0,0,0
+Red Maple,2,45,6A,Z3,X. crassiusculus,Adult,1,1,1,1
+Red Maple,2,49,3B,Z4,X. crassiusculus,Adult,0,0,0,0
+Red Maple,2,54,2B,X3,X. crassiusculus,Adult,0,0,0,0
+Red Maple,2,59,2A,X2,X. crassiusculus,Adult,0,0,0,0
+Red Maple,2,64,0A,Y2,X. crassiusculus,Adult,0,0,0,0
+Red Maple,2,69,7A,Z2,X. crassiusculus,Adult,0,0,0,0
+Red Maple,2,45,1B,Y3,A. maiche,Larvae,0,0,0,0
+Red Maple,2,49,0B,Y3,A. maiche,Larvae,0,0,0,0
+Red Maple,2,54,1A,Z1,A. maiche,Larvae,0,0,0,0
+Red Maple,2,59,3A,Y1,A. maiche,Larvae,0,0,0,0
+Red Maple,2,64,5A,X4,A. maiche,Larvae,0,0,0,0
+Red Maple,2,69,4A,Y4,A. maiche,Larvae,0,0,0,0
+Red Maple,3,45,5A,Z4,X. crassiusculus,Adult,1,1,1,1
+Red Maple,3,49,3A,X3,X. crassiusculus,Adult,0,0,0,0
+Red Maple,3,54,3B,Z1,X. crassiusculus,Adult,0,0,0,0
+Red Maple,3,59,2A,Y2,X. crassiusculus,Adult,0,0,0,0
+Red Maple,3,64,1A,Y1,X. crassiusculus,Adult,0,0,0,0
+Red Maple,3,69,2B,Z3,X. crassiusculus,Adult,0,0,0,0
+Red Maple,3,45,4A,X1,A. maiche,Larvae,0,0,0,0
+Red Maple,3,49,0B,Y3,A. maiche,Larvae,0,0,0,0
+Red Maple,3,54,7A,Y4,A. maiche,Larvae,0,0,0,0
+Red Maple,3,59,0A,X4,A. maiche,Larvae,0,0,0,0
+Red Maple,3,64,1B,X2,A. maiche,Larvae,0,0,0,0
+Red Maple,3,69,6A,Z2,A. maiche,Larvae,0,0,0,0
+Red Maple,4,45,2A,X2,X. crassiusculus,Adult,1,1,1,1
+Red Maple,4,49,3B,Z4,X. crassiusculus,Adult,0,0,0,0
+Red Maple,4,54,5A,Y2,X. crassiusculus,Adult,0,0,0,0
+Red Maple,4,59,1B,X1,X. crassiusculus,Adult,0,0,0,0
+Red Maple,4,64,0A,X3,X. crassiusculus,Adult,0,0,0,0
+Red Maple,4,69,6A,X4,X. crassiusculus,Adult,0,0,0,0
+Red Maple,4,45,7A,Y3,A. maiche,Larvae,0,0,0,0
+Red Maple,4,49,0B,Y4,A. maiche,Larvae,0,0,0,0
+Red Maple,4,54,4A,Z1,A. maiche,Larvae,0,0,0,0
+Red Maple,4,59,1A,Z2,A. maiche,Larvae,0,0,0,0
+Red Maple,4,64,2B,Y1,A. maiche,Larvae,0,0,0,0
+Red Maple,4,69,3A,Z3,A. maiche,Larvae,0,0,0,0
+Red Maple,5,45,2A,Y3,X. crassiusculus,Adult,1,1,1,1
+Red Maple,5,49,7A,X4,X. crassiusculus,Adult,0,0,0,0
+Red Maple,5,54,3B,X1,X. crassiusculus,Adult,0,0,0,0
+Red Maple,5,59,0A,Z2,X. crassiusculus,Adult,0,0,0,0
+Red Maple,5,64,4A,Z3,X. crassiusculus,Adult,0,0,0,0
+Red Maple,5,69,3A,Y1,X. crassiusculus,Adult,0,0,0,0
+Red Maple,5,45,5A,Z1,A. maiche,Larvae,0,0,0,0
+Red Maple,5,49,2B,Y4,A. maiche,Larvae,0,0,0,0
+Red Maple,5,54,6A,X3,A. maiche,Larvae,0,0,0,0
+Red Maple,5,59,0B,Z4,A. maiche,Larvae,0,0,0,0
+Red Maple,5,64,1B,X2,A. maiche,Larvae,0,0,0,0
+Red Maple,5,69,1A,Y2,A. maiche,Larvae,0,0,0,0
+Red Maple,6,45,2A,X4,X. crassiusculus,Adult,1,1,1,1
+Red Maple,6,49,5A,Y2,X. crassiusculus,Adult,0,0,0,0
+Red Maple,6,54,1A,Y4,X. crassiusculus,Adult,0,0,0,0
+Red Maple,6,59,4A,Z3,X. crassiusculus,Adult,0,0,0,0
+Red Maple,6,64,3A,Z1,X. crassiusculus,Adult,0,0,0,0
+Red Maple,6,69,2B,Z4,X. crassiusculus,Adult,0,0,0,0
+Red Maple,6,45,0B,Y1,A. maiche,Larvae,0,0,0,0
+Red Maple,6,49,6A,X3,A. maiche,Larvae,0,0,0,0
+Red Maple,6,54,0A,X1,A. maiche,Larvae,0,0,0,0
+Red Maple,6,59,7A,Z2,A. maiche,Larvae,0,0,0,0
+Red Maple,6,64,3B,X2,A. maiche,Larvae,0,0,0,0
+Red Maple,6,69,1B,Y3,A. maiche,Larvae,0,0,0,0
+Red Maple,7,45,5A,Z2,X. crassiusculus,Adult,1,1,1,1
+Red Maple,7,49,3B,X2,X. crassiusculus,Adult,0,0,0,0
+Red Maple,7,54,2A,Y4,X. crassiusculus,Adult,0,0,0,0
+Red Maple,7,59,2B,X1,X. crassiusculus,Adult,0,0,0,0
+Red Maple,7,64,1A,Z1,X. crassiusculus,Adult,0,0,0,0
+Red Maple,7,69,0B,Z3,X. crassiusculus,Adult,0,0,0,0
+Red Maple,7,45,3A,X4,A. maiche,Larvae,0,0,0,0
+Red Maple,7,49,0A,Y2,A. maiche,Larvae,0,0,0,0
+Red Maple,7,54,1B,X3,A. maiche,Larvae,0,0,0,0
+Red Maple,7,59,4A,Y1,A. maiche,Larvae,0,0,0,0
+Red Maple,7,64,6A,Z4,A. maiche,Larvae,0,0,0,0
+Red Maple,7,69,7A,Y3,A. maiche,Larvae,0,0,0,0
+Red Maple,8,45,3B,Z3,X. crassiusculus,Adult,1,1,1,1
+Red Maple,8,49,1B,X4,X. crassiusculus,Adult,0,0,0,0
+Red Maple,8,54,2B,Z1,X. crassiusculus,Adult,0,0,0,0
+Red Maple,8,59,5A,X2,X. crassiusculus,Adult,0,0,0,0
+Red Maple,8,64,2A,Y4,X. crassiusculus,Adult,0,0,0,0
+Red Maple,8,69,3A,Y2,X. crassiusculus,Adult,0,0,0,0
+Red Maple,8,45,7A,X1,A. maiche,Larvae,0,0,0,0
+Red Maple,8,49,0B,Y1,A. maiche,Larvae,0,0,0,0
+Red Maple,8,54,1A,Z2,A. maiche,Larvae,0,0,0,0
+Red Maple,8,59,4A,Y3,A. maiche,Larvae,0,0,0,0
+Red Maple,8,64,0A,Z4,A. maiche,Larvae,0,0,0,0
+Red Maple,8,69,6A,X3,A. maiche,Larvae,0,0,0,0
+Red Maple,9,45,2A,X3,X. crassiusculus,Larvae,1,1,1,1
+Red Maple,9,45,3B,Y4,X. crassiusculus,Larvae,1,1,1,1
+Red Maple,9,49,1B,X2,X. crassiusculus,Larvae,0,0,0,1
+Red Maple,9,49,1A,Y1,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,9,54,5A,X1,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,9,54,2B,Y2,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,9,59,4A,X4,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,9,59,3A,Z1,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,9,64,0B,Z2,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,9,64,7A,Z4,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,9,69,0A,Z3,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,9,69,6A,Y3,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,10,45,0B,Y4,X. crassiusculus,Larvae,1,1,1,1
+Red Maple,10,45,2A,Z2,X. crassiusculus,Larvae,1,1,1,1
+Red Maple,10,49,3A,Y3,X. crassiusculus,Larvae,0,0,0,1
+Red Maple,10,49,0A,Z1,X. crassiusculus,Larvae,0,0,0,1
+Red Maple,10,54,2B,X1,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,10,54,6A,Y1,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,10,59,4A,X3,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,10,59,1B,X2,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,10,64,7A,Y2,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,10,64,1A,Z4,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,10,69,3B,Z3,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,10,69,5A,X4,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,11,45,4A,Z2,X. crassiusculus,Larvae,1,1,1,1
+Red Maple,11,45,7A,X2,X. crassiusculus,Larvae,1,1,1,1
+Red Maple,11,49,1A,X4,X. crassiusculus,Larvae,0,0,0,1
+Red Maple,11,49,0A,Z4,X. crassiusculus,Larvae,0,0,0,1
+Red Maple,11,54,0B,Y3,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,11,54,2A,Y2,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,11,59,2B,X3,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,11,59,3B,Z3,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,11,64,6A,X1,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,11,64,5A,Z1,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,11,69,3A,Y4,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,11,69,1B,Y1,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,12,45,4A,Z2,X. crassiusculus,Larvae,1,1,1,1
+Red Maple,12,45,5A,Z3,X. crassiusculus,Larvae,1,1,1,1
+Red Maple,12,49,2A,X3,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,12,49,0B,Y4,X. crassiusculus,Larvae,0,0,0,1
+Red Maple,12,54,3A,Y3,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,12,54,2B,X4,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,12,59,0A,Z4,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,12,59,6A,Y2,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,12,64,1B,X1,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,12,64,7A,X2,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,12,69,1A,Z1,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,12,69,3B,Y1,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,13,45,3B,Y2,X. crassiusculus,Adult,1,1,1,1
+Red Maple,13,45,5A,X1,X. crassiusculus,Adult,1,1,1,1
+Red Maple,13,46,2B,Z4,X. crassiusculus,Adult,1,1,1,1
+Red Maple,13,46,0B,Y3,X. crassiusculus,Adult,1,1,1,1
+Red Maple,13,47,2A,X4,X. crassiusculus,Adult,1,1,1,1
+Red Maple,13,47,1A,Z2,X. crassiusculus,Adult,1,1,1,1
+Red Maple,13,48,0A,X3,X. crassiusculus,Adult,0,0,0,0
+Red Maple,13,48,4A,Z3,X. crassiusculus,Adult,0,0,0,0
+Red Maple,13,49,1B,X2,X. crassiusculus,Adult,0,0,0,0
+Red Maple,13,49,3A,Z1,X. crassiusculus,Adult,0,0,0,0
+Red Maple,14,45,2B,X1,X. crassiusculus,Adult,1,1,1,1
+Red Maple,14,45,1B,X3,X. crassiusculus,Adult,1,1,1,1
+Red Maple,14,46,5A,Z2,X. crassiusculus,Adult,1,1,1,1
+Red Maple,14,46,2A,Z1,X. crassiusculus,Adult,1,1,1,1
+Red Maple,14,47,3A,Y3,X. crassiusculus,Adult,1,1,1,1
+Red Maple,14,47,0B,X2,X. crassiusculus,Adult,1,1,1,1
+Red Maple,14,48,0A,X4,X. crassiusculus,Adult,0,0,0,0
+Red Maple,14,48,1A,Z3,X. crassiusculus,Adult,0,0,0,0
+Red Maple,14,49,3B,Z4,X. crassiusculus,Adult,0,0,0,0
+Red Maple,14,49,4A,Y2,X. crassiusculus,Adult,0,0,0,0
+Red Maple,15,45,5A,Z4,X. crassiusculus,Adult,1,1,1,1
+Red Maple,15,45,2B,X3,X. crassiusculus,Adult,1,1,1,1
+Red Maple,15,46,1B,X4,X. crassiusculus,Adult,1,1,1,1
+Red Maple,15,46,3A,X2,X. crassiusculus,Adult,1,1,1,1
+Red Maple,15,47,1A,X1,X. crassiusculus,Adult,1,1,1,1
+Red Maple,15,47,0B,Y3,X. crassiusculus,Adult,1,1,1,1
+Red Maple,15,48,0A,Z1,X. crassiusculus,Adult,1,1,1,1
+Red Maple,15,48,4A,Z3,X. crassiusculus,Adult,1,1,1,1
+Red Maple,15,49,3B,Y2,X. crassiusculus,Adult,0,0,0,0
+Red Maple,15,49,2A,Z2,X. crassiusculus,Adult,0,0,0,0
+Red Maple,16,45,0B,X1,X. crassiusculus,Adult,1,1,1,1
+Red Maple,16,45,1B,X2,X. crassiusculus,Adult,1,1,1,1
+Red Maple,16,46,3B,Z1,X. crassiusculus,Adult,1,1,1,1
+Red Maple,16,46,5A,Z2,X. crassiusculus,Adult,1,1,1,1
+Red Maple,16,47,1A,Y2,X. crassiusculus,Adult,1,1,1,1
+Red Maple,16,47,2A,Y3,X. crassiusculus,Adult,1,1,1,1
+Red Maple,16,48,0A,X3,X. crassiusculus,Adult,0,0,0,0
+Red Maple,16,48,3A,Z3,X. crassiusculus,Adult,0,0,0,0
+Red Maple,16,49,4A,Z5,X. crassiusculus,Adult,0,0,0,0
+Red Maple,16,49,2B,X4,X. crassiusculus,Adult,0,0,0,0
+Beech,17,45,5A,X3,X. crassiusculus,Adult,1,1,1,1
+Beech,17,45,0B,Z3,X. crassiusculus,Adult,1,1,1,1
+Beech,17,49,1B,Z4,X. crassiusculus,Adult,0,0,0,0
+Beech,17,49,4A,Y2,X. crassiusculus,Adult,0,0,0,0
+Beech,17,54,2A,Y3,X. crassiusculus,Adult,0,0,0,0
+Beech,17,54,7A,X1,X. crassiusculus,Adult,0,0,0,0
+Beech,17,59,0A,Y4,X. crassiusculus,Adult,0,0,0,0
+Beech,17,59,3A,Z1,X. crassiusculus,Adult,0,0,0,0
+Beech,17,64,3B,X2,X. crassiusculus,Adult,0,0,0,0
+Beech,17,64,2B,Y1,X. crassiusculus,Adult,0,0,0,0
+Beech,17,69,6A,X4,X. crassiusculus,Adult,0,0,0,0
+Beech,17,69,1A,Z2,X. crassiusculus,Adult,0,0,0,0
+Beech,18,45,1B,Y3,X. crassiusculus,Adult,1,1,1,1
+Beech,18,45,6A,Z3,X. crassiusculus,Adult,1,1,1,1
+Beech,18,49,0B,X1,X. crassiusculus,Adult,0,0,0,0
+Beech,18,49,3B,Z4,X. crassiusculus,Adult,0,0,0,0
+Beech,18,54,1A,Z1,X. crassiusculus,Adult,0,0,0,0
+Beech,18,54,2B,X3,X. crassiusculus,Adult,0,0,0,0
+Beech,18,59,2A,X2,X. crassiusculus,Adult,0,0,0,0
+Beech,18,59,3A,Y1,X. crassiusculus,Adult,0,0,0,0
+Beech,18,64,0A,Y2,X. crassiusculus,Adult,0,0,0,0
+Beech,18,64,5A,X4,X. crassiusculus,Adult,0,0,0,0
+Beech,18,69,4A,Y4,X. crassiusculus,Adult,0,0,0,0
+Beech,18,69,7A,Z2,X. crassiusculus,Adult,0,0,0,0
+Beech,19,45,5A,Z4,X. crassiusculus,Adult,1,1,1,0
+Beech,19,45,4A,X1,X. crassiusculus,Adult,1,1,1,1
+Beech,19,49,0B,Y3,X. crassiusculus,Adult,0,0,0,0
+Beech,19,49,3A,X3,X. crassiusculus,Adult,0,0,0,0
+Beech,19,54,3B,Z1,X. crassiusculus,Adult,0,0,0,0
+Beech,19,54,7A,Y4,X. crassiusculus,Adult,0,0,0,0
+Beech,19,59,2A,Y2,X. crassiusculus,Adult,0,0,0,0
+Beech,19,59,0A,X4,X. crassiusculus,Adult,0,0,0,0
+Beech,19,64,1A,Y1,X. crassiusculus,Adult,0,0,0,0
+Beech,19,64,1B,X2,X. crassiusculus,Adult,0,0,0,0
+Beech,19,69,2B,Z3,X. crassiusculus,Adult,0,0,0,0
+Beech,19,69,6A,Z2,X. crassiusculus,Adult,0,0,0,0
+Beech,20,45,2A,X2,X. crassiusculus,Adult,1,1,1,1
+Beech,20,45,7A,Y3,X. crassiusculus,Adult,1,1,1,1
+Beech,20,49,0B,Y4,X. crassiusculus,Adult,0,0,0,0
+Beech,20,49,3B,Z4,X. crassiusculus,Adult,0,0,0,0
+Beech,20,54,5A,Y2,X. crassiusculus,Adult,0,0,0,0
+Beech,20,54,4A,Z1,X. crassiusculus,Adult,0,0,0,0
+Beech,20,59,1B,X1,X. crassiusculus,Adult,0,0,0,0
+Beech,20,59,1A,Z2,X. crassiusculus,Adult,0,0,0,0
+Beech,20,64,2B,Y1,X. crassiusculus,Adult,0,0,0,0
+Beech,20,64,0A,X3,X. crassiusculus,Adult,0,0,0,0
+Beech,20,69,3A,Z3,X. crassiusculus,Adult,0,0,0,0
+Beech,20,69,6A,X4,X. crassiusculus,Adult,0,0,0,0
+Beech,21,45,3A,X3,X. crassiusculus,Adult,1,1,1,1
+Beech,21,45,5A,Y3,X. crassiusculus,Adult,1,1,1,1
+Beech,21,46,0A,Z3,X. crassiusculus,Adult,1,1,1,1
+Beech,21,46,1A,Z4,X. crassiusculus,Adult,1,1,1,1
+Beech,21,47,2A,Y2,X. crassiusculus,Adult,1,1,1,1
+Beech,21,47,4A,X2,X. crassiusculus,Adult,1,1,1,1
+Beech,21,48,2B,X4,X. crassiusculus,Adult,0,0,0,0
+Beech,21,48,3B,Z1,X. crassiusculus,Adult,0,0,0,0
+Beech,21,49,1B,Z2,X. crassiusculus,Adult,0,0,0,0
+Beech,21,49,0B,X1,X. crassiusculus,Adult,0,0,0,0
+Beech,22,45,0A,Z1,X. crassiusculus,Adult,1,1,1,1
+Beech,22,45,0B,X2,X. crassiusculus,Adult,1,1,1,1
+Beech,22,46,4A,X3,X. crassiusculus,Adult,1,1,1,1
+Beech,22,46,3A,Z3,X. crassiusculus,Adult,1,1,1,1
+Beech,22,47,1A,Y2,X. crassiusculus,Adult,1,1,1,1
+Beech,22,47,1B,Z2,X. crassiusculus,Adult,1,1,1,1
+Beech,22,48,2A,Z4,X. crassiusculus,Adult,0,0,0,0
+Beech,22,48,3B,X4,X. crassiusculus,Adult,0,0,0,0
+Beech,22,49,2B,Y3,X. crassiusculus,Adult,0,0,0,0
+Beech,22,49,5A,X1,X. crassiusculus,Adult,0,0,0,0
+Beech,23,45,1A,Y3,X. crassiusculus,Adult,1,1,1,1
+Beech,23,45,0A,X4,X. crassiusculus,Adult,1,1,1,1
+Beech,23,46,2B,Y2,X. crassiusculus,Adult,1,1,1,1
+Beech,23,46,2A,X3,X. crassiusculus,Adult,1,1,1,1
+Beech,23,47,1B,Z4,X. crassiusculus,Adult,1,1,1,1
+Beech,23,47,4A,Z1,X. crassiusculus,Adult,1,1,1,1
+Beech,23,48,0B,X2,X. crassiusculus,Adult,0,0,0,0
+Beech,23,48,5A,X1,X. crassiusculus,Adult,1,1,1,0
+Beech,23,49,3A,Z3,X. crassiusculus,Adult,0,0,0,0
+Beech,23,49,3B,Z2,X. crassiusculus,Adult,0,0,0,0
+Beech,24,45,3A,Y3,X. crassiusculus,Adult,1,1,1,1
+Beech,24,45,4A,X4,X. crassiusculus,Adult,1,1,1,1
+Beech,24,46,5A,X1,X. crassiusculus,Adult,1,1,1,1
+Beech,24,46,0B,X2,X. crassiusculus,Adult,1,1,1,1
+Beech,24,47,2A,X3,X. crassiusculus,Adult,1,1,1,1
+Beech,24,47,0A,Z3,X. crassiusculus,Adult,1,1,1,1
+Beech,24,48,3B,Y2,X. crassiusculus,Adult,1,1,1,1
+Beech,24,48,1A,Z1,X. crassiusculus,Adult,0,0,0,0
+Beech,24,49,2B,Z2,X. crassiusculus,Adult,0,0,0,0
+Beech,24,49,1B,Z4,X. crassiusculus,Adult,0,0,0,0
+Beech,25,45,5A,X3,X. crassiusculus,Larvae,1,1,1,1
+Beech,25,45,0B,Z3,X. crassiusculus,Larvae,1,1,1,1
+Beech,25,49,1B,Z4,X. crassiusculus,Larvae,0,0,0,1
+Beech,25,49,4A,Y2,X. crassiusculus,Larvae,0,0,0,1
+Beech,25,54,2A,Y3,X. crassiusculus,Larvae,0,0,0,0
+Beech,25,54,7A,X1,X. crassiusculus,Larvae,0,0,0,0
+Beech,25,59,0A,Y4,X. crassiusculus,Larvae,0,0,0,0
+Beech,25,59,3A,Z1,X. crassiusculus,Larvae,0,0,0,0
+Beech,25,64,3B,X2,X. crassiusculus,Larvae,0,0,0,0
+Beech,25,64,2B,Y1,X. crassiusculus,Larvae,0,0,0,0
+Beech,25,69,6A,X4,X. crassiusculus,Larvae,0,0,0,0
+Beech,25,69,1A,Z2,X. crassiusculus,Larvae,0,0,0,0
+Beech,26,45,1B,Y3,X. crassiusculus,Larvae,1,1,1,1
+Beech,26,45,6A,Z3,X. crassiusculus,Larvae,1,1,1,1
+Beech,26,49,0B,X1,X. crassiusculus,Larvae,0,0,0,0
+Beech,26,49,3B,Z4,X. crassiusculus,Larvae,0,0,0,1
+Beech,26,54,1A,Z1,X. crassiusculus,Larvae,0,0,0,0
+Beech,26,54,2B,X3,X. crassiusculus,Larvae,0,0,0,0
+Beech,26,59,2A,X2,X. crassiusculus,Larvae,0,0,0,0
+Beech,26,59,3A,Y1,X. crassiusculus,Larvae,0,0,0,0
+Beech,26,64,0A,Y2,X. crassiusculus,Larvae,0,0,0,0
+Beech,26,64,5A,X4,X. crassiusculus,Larvae,0,0,0,0
+Beech,26,69,4A,Y4,X. crassiusculus,Larvae,0,0,0,0
+Beech,26,69,7A,Z2,X. crassiusculus,Larvae,0,0,0,0
+Beech,27,45,5A,Z4,X. crassiusculus,Larvae,1,1,1,1
+Beech,27,45,4A,X1,X. crassiusculus,Larvae,1,1,1,1
+Beech,27,49,0B,Y3,X. crassiusculus,Larvae,0,0,0,0
+Beech,27,49,3A,X3,X. crassiusculus,Larvae,0,0,0,1
+Beech,27,54,3B,Z1,X. crassiusculus,Larvae,0,0,0,0
+Beech,27,54,7A,Y4,X. crassiusculus,Larvae,0,0,0,0
+Beech,27,59,2A,Y2,X. crassiusculus,Larvae,0,0,0,0
+Beech,27,59,0A,X4,X. crassiusculus,Larvae,0,0,0,0
+Beech,27,64,1A,Y1,X. crassiusculus,Larvae,0,0,0,0
+Beech,27,64,1B,X2,X. crassiusculus,Larvae,0,0,0,0
+Beech,27,69,2B,Z3,X. crassiusculus,Larvae,0,0,0,0
+Beech,27,69,6A,Z2,X. crassiusculus,Larvae,0,0,0,0
+Beech,28,45,2A,X2,X. crassiusculus,Larvae,1,1,1,1
+Beech,28,45,7A,Y3,X. crassiusculus,Larvae,1,1,1,1
+Beech,28,49,0B,Y4,X. crassiusculus,Larvae,0,0,0,1
+Beech,28,49,3B,Z4,X. crassiusculus,Larvae,0,0,0,1
+Beech,28,54,5A,Y2,X. crassiusculus,Larvae,0,0,0,0
+Beech,28,54,4A,Z1,X. crassiusculus,Larvae,0,0,0,0
+Beech,28,59,1B,X1,X. crassiusculus,Larvae,0,0,0,0
+Beech,28,59,1A,Z2,X. crassiusculus,Larvae,0,0,0,0
+Beech,28,64,2B,Y1,X. crassiusculus,Larvae,0,0,0,0
+Beech,28,64,0A,X3,X. crassiusculus,Larvae,0,0,0,0
+Beech,28,69,3A,Z3,X. crassiusculus,Larvae,0,0,0,0
+Beech,28,69,6A,X4,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,29,45,5A,X1,X. crassiusculus,Larvae,1,1,1,1
+Red Maple,29,45,2B,X4,X. crassiusculus,Larvae,1,1,1,1
+Red Maple,29,46,1A,X3,X. crassiusculus,Larvae,1,1,1,1
+Red Maple,29,46,2A,Z2,X. crassiusculus,Larvae,1,1,1,1
+Red Maple,29,47,4A,Z1,X. crassiusculus,Larvae,0,1,1,1
+Red Maple,29,47,0B,Y3,X. crassiusculus,Larvae,0,1,1,1
+Red Maple,29,48,3B,Y2,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,29,48,0A,Z3,X. crassiusculus,Larvae,0,0,1,1
+Red Maple,29,49,1B,Z4,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,29,49,3A,X2,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,30,45,0A,Z1,X. crassiusculus,Larvae,1,1,1,1
+Red Maple,30,45,0B,X2,X. crassiusculus,Larvae,1,1,1,1
+Red Maple,30,46,4A,X3,X. crassiusculus,Larvae,1,1,1,1
+Red Maple,30,46,3A,Z3,X. crassiusculus,Larvae,1,1,1,1
+Red Maple,30,47,1A,Y2,X. crassiusculus,Larvae,0,1,1,1
+Red Maple,30,47,1B,Z2,X. crassiusculus,Larvae,0,0,1,1
+Red Maple,30,48,2A,Z4,X. crassiusculus,Larvae,0,0,0,1
+Red Maple,30,48,3B,X4,X. crassiusculus,Larvae,0,0,1,1
+Red Maple,30,49,2B,Y3,X. crassiusculus,Larvae,0,0,0,1
+Red Maple,30,49,5A,X1,X. crassiusculus,Larvae,0,0,0,1
+Red Maple,31,51,1A,Y3,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,31,51,0A,X4,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,31,52,2B,Y2,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,31,52,2A,X3,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,31,53,1B,Z4,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,31,53,4A,Z1,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,31,54,0B,X2,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,31,54,5A,X1,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,32,51,3A,Y3,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,32,51,4A,X4,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,32,52,5A,X1,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,32,52,0B,X2,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,32,53,2A,X3,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,32,53,0A,Z3,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,32,54,3B,Y2,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,32,54,1A,Z1,X. crassiusculus,Larvae,0,0,0,0
+Beech,33,45,5A,X3,A. maiche,Larvae,1,1,1,0
+Beech,33,45,0B,Z3,A. maiche,Larvae,1,1,1,1
+Beech,33,49,1B,Z4,A. maiche,Larvae,0,0,0,0
+Beech,33,49,4A,Y2,A. maiche,Larvae,0,0,0,0
+Beech,33,54,2A,Y3,A. maiche,Larvae,0,0,0,0
+Beech,33,54,7A,X1,A. maiche,Larvae,0,0,0,0
+Beech,33,59,0A,Y4,A. maiche,Larvae,0,0,0,0
+Beech,33,59,3A,Z1,A. maiche,Larvae,0,0,0,0
+Beech,33,64,3B,X2,A. maiche,Larvae,0,0,0,0
+Beech,33,64,2B,Y1,A. maiche,Larvae,0,0,0,0
+Beech,33,69,6A,X4,A. maiche,Larvae,0,0,0,0
+Beech,33,69,1A,Z2,A. maiche,Larvae,0,0,0,0
+Beech,34,45,1B,Y3,A. maiche,Larvae,0,1,1,1
+Beech,34,45,6A,Z3,A. maiche,Larvae,0,0,0,0
+Beech,34,49,0B,X1,A. maiche,Larvae,0,0,0,0
+Beech,34,49,3B,Z4,A. maiche,Larvae,0,0,0,0
+Beech,34,54,1A,Z1,A. maiche,Larvae,0,0,0,0
+Beech,34,54,2B,X3,A. maiche,Larvae,0,0,0,0
+Beech,34,59,2A,X2,A. maiche,Larvae,0,0,0,0
+Beech,34,59,3A,Y1,A. maiche,Larvae,0,0,0,0
+Beech,34,64,0A,Y2,A. maiche,Larvae,0,0,0,0
+Beech,34,64,5A,X4,A. maiche,Larvae,0,0,0,0
+Beech,34,69,4A,Y4,A. maiche,Larvae,0,0,0,0
+Beech,34,69,7A,Z2,A. maiche,Larvae,0,0,0,0
+Beech,35,45,5A,Z4,A. maiche,Larvae,1,1,1,1
+Beech,35,45,4A,X1,A. maiche,Larvae,1,1,1,0
+Beech,35,49,0B,Y3,A. maiche,Larvae,0,0,0,0
+Beech,35,49,3A,X3,A. maiche,Larvae,0,0,0,0
+Beech,35,54,3B,Z1,A. maiche,Larvae,0,0,0,0
+Beech,35,54,7A,Y4,A. maiche,Larvae,0,0,0,0
+Beech,35,59,2A,Y2,A. maiche,Larvae,0,0,0,0
+Beech,35,59,0A,X4,A. maiche,Larvae,0,0,0,0
+Beech,35,64,1A,Y1,A. maiche,Larvae,0,0,0,0
+Beech,35,64,1B,X2,A. maiche,Larvae,0,0,0,0
+Beech,35,69,2B,Z3,A. maiche,Larvae,0,0,0,0
+Beech,35,69,6A,Z2,A. maiche,Larvae,0,0,0,0
+Beech,36,45,2A,X2,A. maiche,Larvae,0,0,0,0
+Beech,36,45,7A,Y3,A. maiche,Larvae,0,1,1,1
+Beech,36,49,0B,Y4,A. maiche,Larvae,0,0,0,0
+Beech,36,49,3B,Z4,A. maiche,Larvae,0,0,0,0
+Beech,36,54,5A,Y2,A. maiche,Larvae,0,0,0,0
+Beech,36,54,4A,Z1,A. maiche,Larvae,0,0,0,0
+Beech,36,59,1B,X1,A. maiche,Larvae,0,0,0,0
+Beech,36,59,1A,Z2,A. maiche,Larvae,0,0,0,0
+Beech,36,64,2B,Y1,A. maiche,Larvae,0,0,0,0
+Beech,36,64,0A,X3,A. maiche,Larvae,0,0,0,0
+Beech,36,69,3A,Z3,A. maiche,Larvae,0,0,0,0
+Beech,36,69,6A,X4,A. maiche,Larvae,0,0,0,0
+Beech,37,45,5A,Z1,A. maiche,Adult,1,1,1,1
+Beech,37,45,2A,Y3,A. maiche,Adult,1,1,1,1
+Beech,37,49,7A,X4,A. maiche,Adult,0,0,0,0
+Beech,37,49,2B,Y4,A. maiche,Adult,0,0,0,0
+Beech,37,54,3B,X1,A. maiche,Adult,0,0,0,0
+Beech,37,54,6A,X3,A. maiche,Adult,0,0,0,0
+Beech,37,59,0A,Z2,A. maiche,Adult,0,0,0,0
+Beech,37,59,0B,Z4,A. maiche,Adult,0,0,0,0
+Beech,37,64,4A,Z3,A. maiche,Adult,0,0,0,0
+Beech,37,64,1B,X2,A. maiche,Adult,0,0,0,0
+Beech,37,69,3A,Y1,A. maiche,Adult,0,0,0,0
+Beech,37,69,1A,Y2,A. maiche,Adult,0,0,0,0
+Beech,38,45,2A,X4,A. maiche,Adult,1,1,1,1
+Beech,38,45,0B,Y1,A. maiche,Adult,1,1,1,1
+Beech,38,49,6A,X3,A. maiche,Adult,0,0,0,0
+Beech,38,49,5A,Y2,A. maiche,Adult,0,0,0,0
+Beech,38,54,1A,Y4,A. maiche,Adult,0,0,0,0
+Beech,38,54,0A,X1,A. maiche,Adult,0,0,0,0
+Beech,38,59,7A,Z2,A. maiche,Adult,0,0,0,0
+Beech,38,59,4A,Z3,A. maiche,Adult,0,0,0,0
+Beech,38,64,3B,X2,A. maiche,Adult,0,0,0,0
+Beech,38,64,3A,Z1,A. maiche,Adult,0,0,0,0
+Beech,38,69,1B,Y3,A. maiche,Adult,0,0,0,0
+Beech,38,69,2B,Z4,A. maiche,Adult,0,0,0,0
+Beech,39,45,3A,X4,A. maiche,Adult,1,1,1,1
+Beech,39,45,5A,Z2,A. maiche,Adult,1,1,1,1
+Beech,39,49,0A,Y2,A. maiche,Adult,0,0,0,0
+Beech,39,49,3B,X2,A. maiche,Adult,0,0,0,0
+Beech,39,54,2A,Y4,A. maiche,Adult,0,0,0,0
+Beech,39,54,1B,X3,A. maiche,Adult,0,0,0,0
+Beech,39,59,2B,X1,A. maiche,Adult,0,0,0,0
+Beech,39,59,4A,Y1,A. maiche,Adult,0,0,0,0
+Beech,39,64,6A,Z4,A. maiche,Adult,0,0,0,0
+Beech,39,64,1A,Z1,A. maiche,Adult,0,0,0,0
+Beech,39,69,0B,Z3,A. maiche,Adult,0,0,0,0
+Beech,39,69,7A,Y3,A. maiche,Adult,0,0,0,0
+Beech,40,45,7A,X1,A. maiche,Adult,1,1,1,1
+Beech,40,45,3B,Z3,A. maiche,Adult,1,1,1,1
+Beech,40,49,1B,X4,A. maiche,Adult,0,0,0,0
+Beech,40,49,0B,Y1,A. maiche,Adult,0,0,0,0
+Beech,40,54,2B,Z1,A. maiche,Adult,0,0,0,0
+Beech,40,54,1A,Z2,A. maiche,Adult,0,0,0,0
+Beech,40,59,4A,Y3,A. maiche,Adult,0,0,0,0
+Beech,40,59,5A,X2,A. maiche,Adult,0,0,0,0
+Beech,40,64,0A,Z4,A. maiche,Adult,0,0,0,0
+Beech,40,64,2A,Y4,A. maiche,Adult,0,0,0,0
+Beech,40,69,3A,Y2,A. maiche,Adult,0,0,0,0
+Beech,40,69,6A,X3,A. maiche,Adult,0,0,0,0
+Red Maple,41,45,1B,X2,A. maiche,Adult,1,1,1,1
+Red Maple,41,45,4A,Y2,A. maiche,Adult,1,1,1,1
+Red Maple,41,49,5A,Y4,A. maiche,Adult,0,0,0,0
+Red Maple,41,49,0B,X1,A. maiche,Adult,0,0,0,0
+Red Maple,41,54,3A,Y3,A. maiche,Adult,0,0,0,0
+Red Maple,41,54,1A,Z4,A. maiche,Adult,0,0,0,0
+Red Maple,41,59,0A,Z1,A. maiche,Adult,0,0,0,0
+Red Maple,41,59,6A,Z3,A. maiche,Adult,0,0,0,0
+Red Maple,41,64,7A,X3,A. maiche,Adult,0,0,0,0
+Red Maple,41,64,3B,X4,A. maiche,Adult,0,0,0,0
+Red Maple,41,69,2B,Z2,A. maiche,Adult,0,0,0,0
+Red Maple,41,69,2A,Y1,A. maiche,Adult,0,0,0,0
+Red Maple,42,45,1B,Z2,A. maiche,Adult,0,1,1,1
+Red Maple,42,45,0A,X1,A. maiche,Adult,1,1,1,1
+Red Maple,42,49,3B,Y4,A. maiche,Adult,0,0,0,0
+Red Maple,42,49,4A,X3,A. maiche,Adult,0,0,0,0
+Red Maple,42,54,6A,Y2,A. maiche,Adult,0,0,0,0
+Red Maple,42,54,3A,X4,A. maiche,Adult,0,0,0,0
+Red Maple,42,59,0B,X2,A. maiche,Adult,0,0,0,0
+Red Maple,42,59,1A,Y1,A. maiche,Adult,0,0,0,0
+Red Maple,42,64,2B,Z3,A. maiche,Adult,0,0,0,0
+Red Maple,42,64,5A,Z4,A. maiche,Adult,0,0,0,0
+Red Maple,42,69,2A,Z1,A. maiche,Adult,0,0,0,0
+Red Maple,42,69,7A,Y3,A. maiche,Adult,0,0,0,0
+Red Maple,43,45,4A,Y4,A. maiche,Adult,1,1,1,1
+Red Maple,43,45,0B,Z3,A. maiche,Adult,1,1,1,1
+Red Maple,43,49,7A,X2,A. maiche,Adult,0,0,0,0
+Red Maple,43,49,6A,X4,A. maiche,Adult,0,0,0,0
+Red Maple,43,54,0A,Z1,A. maiche,Adult,0,0,0,0
+Red Maple,43,54,3B,Y3,A. maiche,Adult,0,0,0,0
+Red Maple,43,59,2B,X3,A. maiche,Adult,0,0,0,0
+Red Maple,43,59,1A,X1,A. maiche,Adult,0,0,0,0
+Red Maple,43,64,5A,Z4,A. maiche,Adult,0,0,0,0
+Red Maple,43,64,2A,Y1,A. maiche,Adult,0,0,0,0
+Red Maple,43,69,3A,Z2,A. maiche,Adult,0,0,0,0
+Red Maple,43,69,1B,Y2,A. maiche,Adult,0,0,0,0
+Red Maple,44,45,0A,Z2,A. maiche,Adult,1,1,1,1
+Red Maple,44,45,1A,Y2,A. maiche,Adult,1,1,1,1
+Red Maple,44,49,7A,Y3,A. maiche,Adult,0,0,0,0
+Red Maple,44,49,3B,X2,A. maiche,Adult,0,0,0,0
+Red Maple,44,54,6A,Y4,A. maiche,Adult,0,0,0,0
+Red Maple,44,54,2A,Z4,A. maiche,Adult,0,0,0,0
+Red Maple,44,59,2B,X1,A. maiche,Adult,0,0,0,0
+Red Maple,44,59,5A,X3,A. maiche,Adult,0,0,0,0
+Red Maple,44,64,0B,Y1,A. maiche,Adult,0,0,0,0
+Red Maple,44,64,1B,Z1,A. maiche,Adult,0,0,0,0
+Red Maple,44,69,4A,X4,A. maiche,Adult,0,0,0,0
+Red Maple,44,69,3A,Z3,A. maiche,Adult,0,0,0,0
+Beech,45,45,5A,X3,X. germanus,Adult,0,0,1,1
+Beech,45,45,0B,Z3,X. germanus,Adult,0,0,1,1
+Beech,45,49,1B,Z4,X. germanus,Adult,0,0,0,0
+Beech,45,49,4A,Y2,X. germanus,Adult,0,0,0,0
+Beech,45,54,2A,Y3,X. germanus,Adult,0,0,0,0
+Beech,45,54,7A,X1,X. germanus,Adult,0,0,0,0
+Beech,45,59,0A,Y4,X. germanus,Adult,0,0,0,0
+Beech,45,59,3A,Z1,X. germanus,Adult,0,0,0,0
+Beech,45,64,3B,3B,X. germanus,Adult,0,0,0,0
+Beech,45,64,2B,Y1,X. germanus,Adult,0,0,0,0
+Beech,45,69,6A,X4,X. germanus,Adult,0,0,0,0
+Beech,45,69,1A,Z2,X. germanus,Adult,0,0,0,0
+Beech,46,45,1B,Y3,X. germanus,Adult,0,0,1,1
+Beech,46,45,6A,Z3,X. germanus,Adult,0,0,1,1
+Beech,46,49,0B,X1,X. germanus,Adult,0,0,0,0
+Beech,46,49,3B,Z4,X. germanus,Adult,0,0,0,0
+Beech,46,54,1A,Z1,X. germanus,Adult,0,0,0,0
+Beech,46,54,2B,X3,X. germanus,Adult,0,0,0,0
+Beech,46,59,2A,X2,X. germanus,Adult,0,0,0,0
+Beech,46,59,3A,Y1,X. germanus,Adult,0,0,0,0
+Beech,46,64,0A,Y2,X. germanus,Adult,0,0,0,0
+Beech,46,64,5A,X4,X. germanus,Adult,0,0,0,0
+Beech,46,69,4A,Y4,X. germanus,Adult,0,0,0,0
+Beech,46,69,7A,Z2,X. germanus,Adult,0,0,0,0
+Beech,47,45,5A,Z4,X. germanus,Adult,0,0,0,0
+Beech,47,45,4A,X1,X. germanus,Adult,0,1,1,1
+Beech,47,49,0B,Y3,X. germanus,Adult,0,0,1,1
+Beech,47,49,3A,X3,X. germanus,Adult,0,0,0,0
+Beech,47,54,3B,Z1,X. germanus,Adult,0,0,0,0
+Beech,47,54,7A,Y4,X. germanus,Adult,0,0,0,0
+Beech,47,59,2A,Y2,X. germanus,Adult,0,0,0,0
+Beech,47,59,0A,X4,X. germanus,Adult,0,0,0,0
+Beech,47,64,1A,Y1,X. germanus,Adult,0,0,0,0
+Beech,47,64,1B,X2,X. germanus,Adult,0,0,0,0
+Beech,47,69,2B,Z3,X. germanus,Adult,0,0,0,0
+Beech,47,69,6A,Z2,X. germanus,Adult,0,0,0,0
+Beech,48,45,2A,X2,X. germanus,Adult,0,0,1,1
+Beech,48,45,7A,Y3,X. germanus,Adult,0,0,1,1
+Beech,48,49,0B,Y4,X. germanus,Adult,0,0,0,0
+Beech,48,49,3B,Z4,X. germanus,Adult,0,0,0,0
+Beech,48,54,5A,Y2,X. germanus,Adult,0,0,0,0
+Beech,48,54,4A,Z1,X. germanus,Adult,0,0,0,0
+Beech,48,59,1B,X1,X. germanus,Adult,0,0,0,0
+Beech,48,59,1A,Z2,X. germanus,Adult,0,0,0,0
+Beech,48,64,2B,Y1,X. germanus,Adult,0,0,0,0
+Beech,48,64,0A,X3,X. germanus,Adult,0,0,0,0
+Beech,48,69,3A,Z3,X. germanus,Adult,0,0,0,0
+Beech,48,69,6A,X4,X. germanus,Adult,0,0,0,0
+Red Maple,49,45,5A,Z1,X. germanus,Adult,0,1,1,1
+Red Maple,49,45,2A,Y3,X. germanus,Adult,1,1,1,1
+Red Maple,49,49,7A,X4,X. germanus,Adult,0,0,0,0
+Red Maple,49,49,2B,Y4,X. germanus,Adult,0,0,0,0
+Red Maple,49,54,3B,X1,X. germanus,Adult,0,0,0,0
+Red Maple,49,54,6A,X3,X. germanus,Adult,0,0,0,0
+Red Maple,49,59,0A,Z2,X. germanus,Adult,0,0,0,0
+Red Maple,49,59,0B,Z4,X. germanus,Adult,0,0,0,0
+Red Maple,49,64,4A,Z3,X. germanus,Adult,0,0,0,0
+Red Maple,49,64,1B,X2,X. germanus,Adult,0,0,0,0
+Red Maple,49,69,3A,Y1,X. germanus,Adult,0,0,0,0
+Red Maple,49,69,1A,Y2,X. germanus,Adult,0,0,0,0
+Red Maple,50,45,2A,X4,X. germanus,Adult,1,1,1,1
+Red Maple,50,45,0B,Y1,X. germanus,Adult,1,1,1,1
+Red Maple,50,49,6A,X3,X. germanus,Adult,0,0,0,0
+Red Maple,50,49,5A,Y2,X. germanus,Adult,0,0,0,0
+Red Maple,50,54,1A,Y4,X. germanus,Adult,0,0,0,0
+Red Maple,50,54,0A,X1,X. germanus,Adult,0,0,0,0
+Red Maple,50,59,7A,Z2,X. germanus,Adult,0,0,0,0
+Red Maple,50,59,4A,Z3,X. germanus,Adult,0,0,0,0
+Red Maple,50,64,3B,X2,X. germanus,Adult,0,0,0,0
+Red Maple,50,64,3A,Z1,X. germanus,Adult,0,0,0,0
+Red Maple,50,69,1B,Y3,X. germanus,Adult,0,0,0,0
+Red Maple,50,69,2B,Z4,X. germanus,Adult,0,0,0,0
+Red Maple,51,45,3A,X4,X. germanus,Adult,1,1,1,1
+Red Maple,51,45,5A,Z2,X. germanus,Adult,1,1,1,1
+Red Maple,51,49,0A,Y2,X. germanus,Adult,0,0,0,0
+Red Maple,51,49,3B,X2,X. germanus,Adult,0,0,0,0
+Red Maple,51,54,2A,Y4,X. germanus,Adult,0,0,0,0
+Red Maple,51,54,1B,X3,X. germanus,Adult,0,0,0,0
+Red Maple,51,59,2B,X1,X. germanus,Adult,0,0,0,0
+Red Maple,51,59,4A,Y1,X. germanus,Adult,0,0,0,0
+Red Maple,51,64,6A,Z4,X. germanus,Adult,0,0,0,0
+Red Maple,51,64,1A,Z1,X. germanus,Adult,0,0,0,0
+Red Maple,51,69,0B,Z3,X. germanus,Adult,0,0,0,0
+Red Maple,51,69,7A,Y3,X. germanus,Adult,0,0,0,0
+Red Maple,52,45,7A,X1,X. germanus,Adult,0,1,1,1
+Red Maple,52,45,3B,Z3,X. germanus,Adult,1,1,1,1
+Red Maple,52,49,1B,X4,X. germanus,Adult,0,0,0,0
+Red Maple,52,49,0B,Y1,X. germanus,Adult,0,0,0,0
+Red Maple,52,54,2B,Z1,X. germanus,Adult,0,0,0,0
+Red Maple,52,54,1A,Z2,X. germanus,Adult,0,0,0,0
+Red Maple,52,59,4A,Y3,X. germanus,Adult,0,0,0,0
+Red Maple,52,59,5A,X2,X. germanus,Adult,0,0,0,0
+Red Maple,52,64,0A,Z4,X. germanus,Adult,0,0,0,0
+Red Maple,52,64,2A,Y4,X. germanus,Adult,0,0,0,0
+Red Maple,52,69,3A,Y2,X. germanus,Adult,0,0,0,0
+Red Maple,52,69,6A,X3,X. germanus,Adult,0,0,0,0
+Red Maple,53,45,1B,X2,X. germanus,Larvae,0,1,1,1
+Red Maple,53,45,4A,Y2,X. germanus,Larvae,0,0,1,1
+Red Maple,53,49,5A,Y4,X. germanus,Larvae,0,0,0,0
+Red Maple,53,49,0B,X1,X. germanus,Larvae,0,0,0,0
+Red Maple,53,54,3A,Y3,X. germanus,Larvae,0,0,0,0
+Red Maple,53,54,1A,Z4,X. germanus,Larvae,0,0,0,0
+Red Maple,53,59,0A,Z1,X. germanus,Larvae,0,0,0,0
+Red Maple,53,59,6A,Z3,X. germanus,Larvae,0,0,0,0
+Red Maple,53,64,7A,X3,X. germanus,Larvae,0,0,0,0
+Red Maple,53,64,3B,X4,X. germanus,Larvae,0,0,0,0
+Red Maple,53,69,2B,Z2,X. germanus,Larvae,0,0,0,0
+Red Maple,53,69,2A,Y1,X. germanus,Larvae,0,0,0,0
+Red Maple,54,45,1B,Z2,X. germanus,Larvae,0,1,1,1
+Red Maple,54,45,0A,X1,X. germanus,Larvae,0,1,1,1
+Red Maple,54,49,3B,Y4,X. germanus,Larvae,0,0,0,0
+Red Maple,54,49,4A,X3,X. germanus,Larvae,0,0,0,0
+Red Maple,54,54,6A,Y2,X. germanus,Larvae,0,0,0,0
+Red Maple,54,54,3A,X4,X. germanus,Larvae,0,0,0,0
+Red Maple,54,59,0B,X2,X. germanus,Larvae,0,0,0,0
+Red Maple,54,59,1A,Y1,X. germanus,Larvae,0,0,0,0
+Red Maple,54,64,2B,Z3,X. germanus,Larvae,0,0,0,0
+Red Maple,54,64,5A,Z4,X. germanus,Larvae,0,0,0,0
+Red Maple,54,69,2A,Z1,X. germanus,Larvae,0,0,0,0
+Red Maple,54,69,7A,Y3,X. germanus,Larvae,0,0,0,0
+Red Maple,55,45,4A,Y4,X. germanus,Larvae,0,1,1,1
+Red Maple,55,45,0B,Z3,X. germanus,Larvae,0,0,0,0
+Red Maple,55,49,7A,X2,X. germanus,Larvae,0,0,0,0
+Red Maple,55,49,6A,X4,X. germanus,Larvae,0,0,0,0
+Red Maple,55,54,0A,Z1,X. germanus,Larvae,0,0,0,0
+Red Maple,55,54,3B,Y3,X. germanus,Larvae,0,0,0,0
+Red Maple,55,59,2B,X3,X. germanus,Larvae,0,0,0,0
+Red Maple,55,59,1A,X1,X. germanus,Larvae,0,0,0,0
+Red Maple,55,64,5A,Z4,X. germanus,Larvae,0,0,0,0
+Red Maple,55,64,2A,Y1,X. germanus,Larvae,0,0,0,0
+Red Maple,55,69,3A,Z2,X. germanus,Larvae,0,0,0,0
+Red Maple,55,69,1B,Y2,X. germanus,Larvae,0,0,0,0
+Red Maple,56,45,0A,Z2,X. germanus,Larvae,0,1,1,1
+Red Maple,56,45,1A,Y2,X. germanus,Larvae,0,1,1,1
+Red Maple,56,49,7A,Y3,X. germanus,Larvae,0,0,0,0
+Red Maple,56,49,3B,X2,X. germanus,Larvae,0,0,0,0
+Red Maple,56,54,6A,Y4,X. germanus,Larvae,0,0,0,0
+Red Maple,56,54,2A,Z4,X. germanus,Larvae,0,0,0,0
+Red Maple,56,59,2B,X1,X. germanus,Larvae,0,0,0,0
+Red Maple,56,59,5A,X3,X. germanus,Larvae,0,0,0,0
+Red Maple,56,64,0B,Y1,X. germanus,Larvae,0,0,0,0
+Red Maple,56,64,1B,Z1,X. germanus,Larvae,0,0,0,0
+Red Maple,56,69,4A,X4,X. germanus,Larvae,0,0,0,0
+Red Maple,56,69,3A,Z3,X. germanus,Larvae,0,0,0,0
+Beech,57,45,2A,Y3,X. germanus,Larvae,1,0,0,1
+Beech,57,45,1A,Z1,X. germanus,Larvae,0,0,0,0
+Beech,57,49,6A,Y4,X. germanus,Larvae,0,0,0,0
+Beech,57,49,3B,Z3,X. germanus,Larvae,0,0,0,0
+Beech,57,54,0A,Z4,X. germanus,Larvae,0,0,0,0
+Beech,57,54,4A,X3,X. germanus,Larvae,0,0,0,0
+Beech,57,59,5A,X1,X. germanus,Larvae,0,0,0,0
+Beech,57,59,7A,X4,X. germanus,Larvae,0,0,0,0
+Beech,57,64,3A,Y1,X. germanus,Larvae,0,0,0,0
+Beech,57,64,2B,Y2,X. germanus,Larvae,0,0,0,0
+Beech,57,69,0B,X2,X. germanus,Larvae,0,0,0,0
+Beech,57,69,1B,Z2,X. germanus,Larvae,0,0,0,0
+Beech,58,45,3B,X3,X. germanus,Larvae,0,1,1,1
+Beech,58,45,2A,Y4,X. germanus,Larvae,0,1,0,0
+Beech,58,49,0B,X2,X. germanus,Larvae,0,0,0,0
+Beech,58,49,1A,Z2,X. germanus,Larvae,0,0,0,0
+Beech,58,54,6A,Y1,X. germanus,Larvae,0,0,0,0
+Beech,58,54,5A,Z1,X. germanus,Larvae,0,0,0,0
+Beech,58,59,2B,Z3,X. germanus,Larvae,0,0,0,0
+Beech,58,59,7A,Y3,X. germanus,Larvae,0,0,0,0
+Beech,58,64,0A,Y2,X. germanus,Larvae,0,0,0,0
+Beech,58,64,1B,X1,X. germanus,Larvae,0,0,0,0
+Beech,58,69,4A,Z4,X. germanus,Larvae,0,0,0,0
+Beech,58,69,3A,X4,X. germanus,Larvae,0,0,0,0
+Beech,59,45,6A,X1,X. germanus,Larvae,0,1,1,1
+Beech,59,45,1B,Z1,X. germanus,Larvae,0,0,0,0
+Beech,59,49,0A,X3,X. germanus,Larvae,0,0,0,0
+Beech,59,49,1A,Y2,X. germanus,Larvae,0,0,0,0
+Beech,59,54,7A,Y4,X. germanus,Larvae,0,0,0,0
+Beech,59,54,2A,Z2,X. germanus,Larvae,0,0,0,0
+Beech,59,59,0B,Z3,X. germanus,Larvae,0,0,0,0
+Beech,59,59,3B,Z4,X. germanus,Larvae,0,0,0,0
+Beech,59,64,2B,Y3,X. germanus,Larvae,0,0,0,0
+Beech,59,64,5A,X2,X. germanus,Larvae,0,0,0,0
+Beech,59,69,3A,Y1,X. germanus,Larvae,0,0,0,0
+Beech,59,69,4A,X4,X. germanus,Larvae,0,0,0,0
+Beech,60,45,1A,Z3,X. germanus,Larvae,0,1,1,1
+Beech,60,45,2A,X4,X. germanus,Larvae,0,1,1,1
+Beech,60,49,4A,Z2,X. germanus,Larvae,0,0,0,0
+Beech,60,49,5A,Y1,X. germanus,Larvae,0,0,0,0
+Beech,60,54,7A,Y2,X. germanus,Larvae,0,0,0,0
+Beech,60,54,3B,Z4,X. germanus,Larvae,0,0,0,0
+Beech,60,59,2B,Y3,X. germanus,Larvae,0,0,0,0
+Beech,60,59,0B,Z1,X. germanus,Larvae,0,0,0,0
+Beech,60,64,1B,X3,X. germanus,Larvae,0,0,0,0
+Beech,60,64,6A,X2,X. germanus,Larvae,0,0,0,0
+Beech,60,69,0A,X1,X. germanus,Larvae,0,0,0,0
+Beech,60,69,3A,Y4,X. germanus,Larvae,0,0,0,0
+Red Maple,61,45,3A,Z1,X. germanus,Adult,0,0,1,1
+Red Maple,61,45,2B,X2,X. germanus,Adult,0,1,1,1
+Red Maple,61,46,4A,Y3,X. germanus,Adult,0,0,0,1
+Red Maple,61,46,2A,X3,X. germanus,Adult,0,0,0,1
+Red Maple,61,47,3B,X1,X. germanus,Adult,0,0,0,0
+Red Maple,61,47,1A,Z3,X. germanus,Adult,0,0,0,0
+Red Maple,61,48,0A,Z4,X. germanus,Adult,0,0,0,0
+Red Maple,61,48,5A,X4,X. germanus,Adult,0,0,0,0
+Red Maple,61,49,1B,Y2,X. germanus,Adult,0,0,0,0
+Red Maple,61,49,0B,Z2,X. germanus,Adult,0,0,0,0
+Red Maple,62,45,0B,Z3,X. germanus,Adult,0,0,1,1
+Red Maple,62,45,3A,X1,X. germanus,Adult,0,0,1,1
+Red Maple,62,46,1B,Z1,X. germanus,Adult,0,0,0,0
+Red Maple,62,46,2B,Y2,X. germanus,Adult,0,0,0,1
+Red Maple,62,47,2A,X2,X. germanus,Adult,0,0,0,0
+Red Maple,62,47,3B,Z4,X. germanus,Adult,0,0,0,0
+Red Maple,62,48,5A,X3,X. germanus,Adult,0,0,0,0
+Red Maple,62,48,1A,X4,X. germanus,Adult,0,0,0,0
+Red Maple,62,49,4A,Y3,X. germanus,Adult,0,0,0,0
+Red Maple,62,49,0A,Z2,X. germanus,Adult,0,0,0,0
+Red Maple,63,45,3A,X2,X. germanus,Adult,0,1,1,1
+Red Maple,63,45,5A,X4,X. germanus,Adult,0,0,1,1
+Red Maple,63,46,4A,Y2,X. germanus,Adult,0,0,0,1
+Red Maple,63,46,0A,X3,X. germanus,Adult,0,0,0,1
+Red Maple,63,47,3B,X1,X. germanus,Adult,0,0,0,0
+Red Maple,63,47,1B,Z3,X. germanus,Adult,0,0,0,0
+Red Maple,63,48,1A,Z2,X. germanus,Adult,0,0,0,0
+Red Maple,63,48,2B,Z4,X. germanus,Adult,0,0,0,0
+Red Maple,63,49,0B,Y3,X. germanus,Adult,0,0,0,0
+Red Maple,63,49,2A,Z1,X. germanus,Adult,0,0,0,0
+Red Maple,64,45,2A,Z2,X. germanus,Adult,0,0,1,1
+Red Maple,64,45,0B,Z1,X. germanus,Adult,0,0,1,1
+Red Maple,64,46,4A,Y2,X. germanus,Adult,0,0,0,1
+Red Maple,64,46,1A,Z4,X. germanus,Adult,0,0,0,0
+Red Maple,64,47,0A,X2,X. germanus,Adult,0,0,0,0
+Red Maple,64,47,3A,X3,X. germanus,Adult,0,0,0,0
+Red Maple,64,48,3B,Z3,X. germanus,Adult,0,0,0,0
+Red Maple,64,48,2B,Y3,X. germanus,Adult,0,0,0,0
+Red Maple,64,49,1B,X4,X. germanus,Adult,0,0,0,0
+Red Maple,64,49,5A,X1,X. germanus,Adult,0,0,0,0
+Beech,65,45,3B,X2,X. germanus,Adult,0,0,1,1
+Beech,65,45,4A,Z2,X. germanus,Adult,0,0,1,1
+Beech,65,46,0A,X1,X. germanus,Adult,0,0,0,0
+Beech,65,46,0B,Y2,X. germanus,Adult,0,0,0,0
+Beech,65,47,5A,Z4,X. germanus,Adult,0,0,0,0
+Beech,65,47,3A,Z1,X. germanus,Adult,0,0,0,0
+Beech,65,48,1A,X3,X. germanus,Adult,0,0,0,0
+Beech,65,48,2A,X4,X. germanus,Adult,0,0,0,0
+Beech,65,49,2B,Y3,X. germanus,Adult,0,0,0,0
+Beech,65,49,1B,Z3,X. germanus,Adult,0,0,0,0
+Beech,66,45,1A,Y2,X. germanus,Adult,0,0,1,1
+Beech,66,45,0B,Y3,X. germanus,Adult,0,0,1,1
+Beech,66,46,2A,Z1,X. germanus,Adult,0,0,0,0
+Beech,66,46,3B,Z2,X. germanus,Adult,0,0,0,0
+Beech,66,47,1B,X1,X. germanus,Adult,0,0,0,0
+Beech,66,47,5A,Z4,X. germanus,Adult,0,0,0,0
+Beech,66,48,0A,X4,X. germanus,Adult,0,0,0,0
+Beech,66,48,4A,X2,X. germanus,Adult,0,0,0,0
+Beech,66,49,3A,X3,X. germanus,Adult,0,0,0,0
+Beech,66,49,2B,Z3,X. germanus,Adult,0,0,0,0
+Beech,67,45,5A,X1,X. germanus,Adult,0,0,1,1
+Beech,67,45,0A,X2,X. germanus,Adult,0,0,1,1
+Beech,67,46,3B,Y3,X. germanus,Adult,0,0,0,1
+Beech,67,46,2A,Z2,X. germanus,Adult,0,0,0,1
+Beech,67,47,1A,Z4,X. germanus,Adult,0,0,0,0
+Beech,67,47,0B,Y2,X. germanus,Adult,0,0,0,0
+Beech,67,48,3A,Z3,X. germanus,Adult,0,0,0,0
+Beech,67,48,4A,X4,X. germanus,Adult,0,0,0,0
+Beech,67,49,2B,Z1,X. germanus,Adult,0,0,0,0
+Beech,67,49,1B,X3,X. germanus,Adult,0,0,0,0
+Beech,68,45,2A,Z1,X. germanus,Adult,0,0,0,1
+Beech,68,45,5A,Z3,X. germanus,Adult,0,0,1,1
+Beech,68,46,1B,X1,X. germanus,Adult,0,0,0,1
+Beech,68,46,3B,X3,X. germanus,Adult,0,0,0,1
+Beech,68,47,2B,Z4,X. germanus,Adult,0,0,0,0
+Beech,68,47,4A,X4,X. germanus,Adult,0,0,0,0
+Beech,68,48,3A,Y3,X. germanus,Adult,0,0,0,0
+Beech,68,48,0A,X2,X. germanus,Adult,0,0,0,0
+Beech,68,49,1A,Y2,X. germanus,Adult,0,0,0,0
+Beech,68,49,0B,Z2,X. germanus,Adult,0,0,0,0
+Beech,73,45,5A,X1,A. maiche,Adult,0,1,1,1
+Beech,73,45,2B,X4,A. maiche,Adult,1,1,1,1
+Beech,73,46,1A,X3,A. maiche,Adult,0,1,0,0
+Beech,73,46,2A,Z2,A. maiche,Adult,0,1,1,1
+Beech,73,47,4A,Z1,A. maiche,Adult,0,0,1,1
+Beech,73,47,0B,Y3,A. maiche,Adult,0,0,1,1
+Beech,73,48,3B,Y2,A. maiche,Adult,0,0,0,0
+Beech,73,48,0A,Z3,A. maiche,Adult,0,0,0,0
+Beech,73,49,1B,Z4,A. maiche,Adult,0,0,0,0
+Beech,73,49,3A,X2,A. maiche,Adult,0,0,0,0
+Beech,74,45,0A,Z1,A. maiche,Adult,1,1,1,1
+Beech,74,45,0B,X2,A. maiche,Adult,1,1,1,1
+Beech,74,46,4A,X3,A. maiche,Adult,0,1,1,1
+Beech,74,46,3A,Z3,A. maiche,Adult,0,1,1,1
+Beech,74,47,1A,Y2,A. maiche,Adult,0,0,1,1
+Beech,74,47,1B,Z2,A. maiche,Adult,0,0,1,1
+Beech,74,48,2A,Z4,A. maiche,Adult,0,0,1,1
+Beech,74,48,3B,X4,A. maiche,Adult,0,0,1,1
+Beech,74,49,2B,Y3,A. maiche,Adult,0,0,0,0
+Beech,74,49,5A,X1,A. maiche,Adult,0,0,0,0
+Beech,75,45,1A,Y3,A. maiche,Adult,1,1,1,1
+Beech,75,45,0A,X4,A. maiche,Adult,1,1,1,1
+Beech,75,46,2B,Y2,A. maiche,Adult,0,1,1,1
+Beech,75,46,2A,X3,A. maiche,Adult,0,1,1,1
+Beech,75,47,1B,Z4,A. maiche,Adult,0,0,1,1
+Beech,75,47,4A,Z1,A. maiche,Adult,0,0,1,1
+Beech,75,48,0B,X2,A. maiche,Adult,0,0,0,0
+Beech,75,48,5A,X1,A. maiche,Adult,0,0,0,0
+Beech,75,49,3A,Z3,A. maiche,Adult,0,0,0,0
+Beech,75,49,3B,Z2,A. maiche,Adult,0,0,0,0
+Beech,76,45,3A,Y3,A. maiche,Adult,1,1,1,1
+Beech,76,45,4A,X4,A. maiche,Adult,1,1,1,1
+Beech,76,46,5A,X1,A. maiche,Adult,0,1,1,1
+Beech,76,46,0B,X2,A. maiche,Adult,0,1,1,1
+Beech,76,47,2A,X3,A. maiche,Adult,0,0,1,1
+Beech,76,47,0A,Z3,A. maiche,Adult,0,0,1,1
+Beech,76,48,3B,Y2,A. maiche,Adult,0,0,0,0
+Beech,76,48,1A,Z1,A. maiche,Adult,0,0,0,0
+Beech,76,49,2B,Z2,A. maiche,Adult,0,0,0,0
+Beech,76,49,1B,Z4,A. maiche,Adult,0,0,0,0
+Red Maple,77,45,5A,X1,A. maiche,Adult,0,1,1,1
+Red Maple,77,45,2B,X4,A. maiche,Adult,1,1,1,1
+Red Maple,77,46,1A,X3,A. maiche,Adult,1,1,1,1
+Red Maple,77,46,2A,Z2,A. maiche,Adult,1,1,1,1
+Red Maple,77,47,4A,Z1,A. maiche,Adult,0,1,1,1
+Red Maple,77,47,0B,Y3,A. maiche,Adult,0,0,1,1
+Red Maple,77,48,3B,Y2,A. maiche,Adult,0,0,0,1
+Red Maple,77,48,0A,Z3,A. maiche,Adult,0,0,0,0
+Red Maple,77,49,1B,Z4,A. maiche,Adult,0,0,0,0
+Red Maple,77,49,3A,X2,A. maiche,Adult,0,0,0,0
+Red Maple,78,45,0A,Z1,A. maiche,Adult,1,1,1,1
+Red Maple,78,45,0B,X2,A. maiche,Adult,1,1,1,1
+Red Maple,78,46,4A,X3,A. maiche,Adult,0,1,1,1
+Red Maple,78,46,3A,Z3,A. maiche,Adult,0,1,1,1
+Red Maple,78,47,1A,Y2,A. maiche,Adult,0,0,1,1
+Red Maple,78,47,1B,Z2,A. maiche,Adult,0,0,1,1
+Red Maple,78,48,2A,Z4,A. maiche,Adult,0,0,0,0
+Red Maple,78,48,3B,X4,A. maiche,Adult,0,0,0,1
+Red Maple,78,49,2B,Y3,A. maiche,Adult,0,0,0,0
+Red Maple,78,49,5A,X1,A. maiche,Adult,0,0,0,0
+Red Maple,79,45,1A,Y3,A. maiche,Adult,1,1,1,1
+Red Maple,79,45,0A,X4,A. maiche,Adult,1,1,1,1
+Red Maple,79,46,2B,Y2,A. maiche,Adult,1,1,1,1
+Red Maple,79,46,2A,X3,A. maiche,Adult,0,1,1,1
+Red Maple,79,47,1B,Z4,A. maiche,Adult,0,1,1,1
+Red Maple,79,47,4A,Z1,A. maiche,Adult,0,0,1,1
+Red Maple,79,48,0B,X2,A. maiche,Adult,0,0,0,0
+Red Maple,79,48,5A,X1,A. maiche,Adult,0,0,0,0
+Red Maple,79,49,3A,Z3,A. maiche,Adult,0,0,0,0
+Red Maple,79,49,3B,Z2,A. maiche,Adult,0,0,0,0
+Red Maple,80,45,3A,Y3,A. maiche,Adult,0,1,1,1
+Red Maple,80,45,4A,X4,A. maiche,Adult,1,1,1,1
+Red Maple,80,46,5A,X1,A. maiche,Adult,0,1,1,1
+Red Maple,80,46,0B,X2,A. maiche,Adult,0,1,1,1
+Red Maple,80,47,2A,X3,A. maiche,Adult,0,0,1,1
+Red Maple,80,47,0A,Z3,A. maiche,Adult,0,0,1,1
+Red Maple,80,48,3B,Y2,A. maiche,Adult,0,0,0,0
+Red Maple,80,48,1A,Z1,A. maiche,Adult,0,0,0,0
+Red Maple,80,49,2B,Z2,A. maiche,Adult,0,0,0,0
+Red Maple,80,49,1B,Z4,A. maiche,Adult,0,0,0,0
+Red Maple,81,45,5A,X1,A. maiche,Larvae,0,0,0,0
+Red Maple,81,45,2B,X4,A. maiche,Larvae,0,0,0,0
+Red Maple,81,46,1A,X3,A. maiche,Larvae,0,0,0,0
+Red Maple,81,46,2A,Z2,A. maiche,Larvae,0,0,0,0
+Red Maple,81,47,4A,Z1,A. maiche,Larvae,0,0,0,0
+Red Maple,81,47,0B,Y3,A. maiche,Larvae,0,0,0,0
+Red Maple,81,48,3B,Y2,A. maiche,Larvae,0,0,0,0
+Red Maple,81,48,0A,Z3,A. maiche,Larvae,0,0,0,0
+Red Maple,81,49,1B,Z4,A. maiche,Larvae,0,0,0,0
+Red Maple,81,49,3A,X2,A. maiche,Larvae,0,0,0,0
+Red Maple,82,45,0A,Z1,A. maiche,Larvae,0,0,0,0
+Red Maple,82,45,0B,X2,A. maiche,Larvae,0,0,0,0
+Red Maple,82,46,4A,X3,A. maiche,Larvae,0,0,0,0
+Red Maple,82,46,3A,Z3,A. maiche,Larvae,0,0,0,0
+Red Maple,82,47,1A,Y2,A. maiche,Larvae,0,0,0,0
+Red Maple,82,47,1B,Z2,A. maiche,Larvae,0,0,0,0
+Red Maple,82,48,2A,Z4,A. maiche,Larvae,0,0,0,0
+Red Maple,82,48,3B,X4,A. maiche,Larvae,0,0,0,0
+Red Maple,82,49,2B,Y3,A. maiche,Larvae,0,0,0,0
+Red Maple,82,49,5A,X1,A. maiche,Larvae,0,0,0,0
+Red Maple,83,45,1B,X2,A. maiche,Larvae,0,0,0,0
+Red Maple,83,45,5A,Z2,A. maiche,Larvae,0,0,0,0
+Red Maple,83,46,3A,Z1,A. maiche,Larvae,0,0,0,0
+Red Maple,83,46,4A,X1,A. maiche,Larvae,0,0,0,0
+Red Maple,83,47,2A,X3,A. maiche,Larvae,0,0,0,0
+Red Maple,83,47,2B,Y2,A. maiche,Larvae,0,0,0,0
+Red Maple,83,48,1A,Z4,A. maiche,Larvae,0,0,0,0
+Red Maple,83,48,3B,Z3,A. maiche,Larvae,0,0,0,0
+Red Maple,83,49,0A,Y3,A. maiche,Larvae,0,0,0,0
+Red Maple,83,49,0B,X4,A. maiche,Larvae,0,0,0,0
+Red Maple,84,45,3A,X4,A. maiche,Larvae,0,0,0,0
+Red Maple,84,45,1B,Z2,A. maiche,Larvae,0,0,0,0
+Red Maple,84,46,3B,Z3,A. maiche,Larvae,0,0,0,0
+Red Maple,84,46,2B,Y3,A. maiche,Larvae,0,0,0,0
+Red Maple,84,47,4A,X2,A. maiche,Larvae,0,0,0,0
+Red Maple,84,47,0B,X1,A. maiche,Larvae,0,0,0,0
+Red Maple,84,48,5A,X3,A. maiche,Larvae,0,0,0,0
+Red Maple,84,48,1A,Y2,A. maiche,Larvae,0,0,0,0
+Red Maple,84,49,0A,Z1,A. maiche,Larvae,0,0,0,0
+Red Maple,84,49,2A,Z4,A. maiche,Larvae,0,0,0,0
+Beech,85,45,0B,Z1,A. maiche,Larvae,1,1,1,1
+Beech,85,45,2A,Y3,A. maiche,Larvae,1,1,1,1
+Beech,85,46,4A,X3,A. maiche,Larvae,0,1,1,1
+Beech,85,46,5A,Z3,A. maiche,Larvae,0,1,1,1
+Beech,85,47,1B,X4,A. maiche,Larvae,0,0,1,1
+Beech,85,47,0A,X2,A. maiche,Larvae,0,0,0,1
+Beech,85,48,3B,X1,A. maiche,Larvae,0,0,0,1
+Beech,85,48,2B,Z4,A. maiche,Larvae,0,0,0,1
+Beech,85,49,3A,Y2,A. maiche,Larvae,0,0,0,0
+Beech,85,49,1A,Z2,A. maiche,Larvae,0,0,0,0
+Beech,86,45,3B,Z3,A. maiche,Larvae,1,1,1,1
+Beech,86,45,0B,X4,A. maiche,Larvae,0,1,1,1
+Beech,86,46,1B,Y2,A. maiche,Larvae,0,1,1,1
+Beech,86,46,2B,X1,A. maiche,Larvae,0,1,1,1
+Beech,86,47,3A,Z2,A. maiche,Larvae,0,0,1,1
+Beech,86,47,5A,X2,A. maiche,Larvae,0,0,1,1
+Beech,86,48,0A,Y3,A. maiche,Larvae,0,0,0,1
+Beech,86,48,4A,Z1,A. maiche,Larvae,0,0,0,1
+Beech,86,49,1A,X3,A. maiche,Larvae,0,0,0,0
+Beech,86,49,2A,Z4,A. maiche,Larvae,0,0,0,0
+Beech,87,45,2A,X1,A. maiche,Larvae,1,1,1,1
+Beech,87,45,0B,Z4,A. maiche,Larvae,1,1,1,1
+Beech,87,46,0A,Z1,A. maiche,Larvae,0,1,1,1
+Beech,87,46,2B,X2,A. maiche,Larvae,0,1,1,1
+Beech,87,47,3B,X3,A. maiche,Larvae,0,1,1,1
+Beech,87,47,5A,Z2,A. maiche,Larvae,0,0,1,1
+Beech,87,48,1B,Z3,A. maiche,Larvae,0,0,1,1
+Beech,87,48,1A,X4,A. maiche,Larvae,0,0,0,1
+Beech,87,49,3A,Y3,A. maiche,Larvae,0,0,0,0
+Beech,87,49,4A,Y2,A. maiche,Larvae,0,0,0,0
+Beech,88,45,2A,Y3,A. maiche,Larvae,1,1,1,1
+Beech,88,45,1B,X2,A. maiche,Larvae,1,1,1,1
+Beech,88,46,1A,X3,A. maiche,Larvae,0,0,0,0
+Beech,88,46,2B,Z4,A. maiche,Larvae,0,1,1,1
+Beech,88,47,0B,X1,A. maiche,Larvae,0,0,1,1
+Beech,88,47,4A,Z1,A. maiche,Larvae,0,0,1,1
+Beech,88,48,5A,Y2,A. maiche,Larvae,0,0,0,1
+Beech,88,48,3A,X4,A. maiche,Larvae,0,0,0,1
+Beech,88,49,3B,Z3,A. maiche,Larvae,0,0,0,0
+Beech,88,49,0A,Z2,A. maiche,Larvae,0,0,0,0
+Red Maple,89,45,5A,X4,X. germanus,Larvae,0,1,1,1
+Red Maple,89,45,2B,Z1,X. germanus,Larvae,0,1,1,1
+Red Maple,89,46,2A,Y2,X. germanus,Larvae,0,1,1,1
+Red Maple,89,46,1B,X1,X. germanus,Larvae,0,1,1,1
+Red Maple,89,47,1A,Z4,X. germanus,Larvae,0,0,1,1
+Red Maple,89,47,0B,X3,X. germanus,Larvae,0,0,1,1
+Red Maple,89,48,3A,X2,X. germanus,Larvae,0,0,0,0
+Red Maple,89,48,3B,Z2,X. germanus,Larvae,0,0,0,0
+Red Maple,89,49,0A,Y3,X. germanus,Larvae,0,0,0,0
+Red Maple,89,49,4A,Z3,X. germanus,Larvae,0,0,0,0
+Red Maple,90,45,3B,Z3,X. germanus,Larvae,1,1,1,1
+Red Maple,90,45,0A,X3,X. germanus,Larvae,1,1,1,1
+Red Maple,90,46,2B,X2,X. germanus,Larvae,0,1,1,1
+Red Maple,90,46,3A,Y3,X. germanus,Larvae,0,1,1,1
+Red Maple,90,47,0B,Y2,X. germanus,Larvae,0,0,0,1
+Red Maple,90,47,5A,X1,X. germanus,Larvae,0,0,0,1
+Red Maple,90,48,1A,Z2,X. germanus,Larvae,0,0,0,0
+Red Maple,90,48,1B,X4,X. germanus,Larvae,0,0,0,0
+Red Maple,90,49,2A,Z4,X. germanus,Larvae,0,0,0,0
+Red Maple,90,49,4A,Z1,X. germanus,Larvae,0,0,0,0
+Red Maple,91,45,5A,X1,X. germanus,Larvae,0,1,1,1
+Red Maple,91,45,0A,X3,X. germanus,Larvae,1,1,1,1
+Red Maple,91,46,4A,Z1,X. germanus,Larvae,0,1,1,1
+Red Maple,91,46,2A,Y2,X. germanus,Larvae,0,1,1,1
+Red Maple,91,47,1A,Z4,X. germanus,Larvae,0,0,0,1
+Red Maple,91,47,3A,Z3,X. germanus,Larvae,0,0,0,1
+Red Maple,91,48,0B,X2,X. germanus,Larvae,0,0,0,0
+Red Maple,91,48,3B,X4,X. germanus,Larvae,0,0,0,0
+Red Maple,91,49,1B,Z2,X. germanus,Larvae,0,0,0,0
+Red Maple,91,49,2B,Y3,X. germanus,Larvae,0,0,0,0
+Red Maple,92,45,5A,Z1,X. germanus,Larvae,1,1,1,1
+Red Maple,92,45,0B,Y3,X. germanus,Larvae,1,1,1,1
+Red Maple,92,46,3A,Y2,X. germanus,Larvae,0,1,1,1
+Red Maple,92,46,2A,Z3,X. germanus,Larvae,0,0,1,1
+Red Maple,92,47,1A,X3,X. germanus,Larvae,0,0,0,1
+Red Maple,92,47,1B,X4,X. germanus,Larvae,0,0,0,1
+Red Maple,92,48,0A,X1,X. germanus,Larvae,0,0,0,0
+Red Maple,92,48,2B,X2,X. germanus,Larvae,0,0,0,0
+Red Maple,92,49,3B,Z4,X. germanus,Larvae,0,0,0,0
+Red Maple,92,49,4A,Z2,X. germanus,Larvae,0,0,0,0
+Beech,93,45,1A,X4,X. germanus,Larvae,1,1,1,1
+Beech,93,45,0A,Z1,X. germanus,Larvae,1,1,1,1
+Beech,93,46,2A,Y2,X. germanus,Larvae,0,1,1,1
+Beech,93,46,1B,X2,X. germanus,Larvae,0,0,1,1
+Beech,93,47,4A,Z3,X. germanus,Larvae,0,0,0,1
+Beech,93,47,5A,X3,X. germanus,Larvae,0,0,0,1
+Beech,93,48,3B,Z2,X. germanus,Larvae,0,0,0,1
+Beech,93,48,0B,Z4,X. germanus,Larvae,0,0,0,0
+Beech,93,49,2B,Y3,X. germanus,Larvae,0,0,0,0
+Beech,93,49,3A,X1,X. germanus,Larvae,0,0,0,0
+Beech,94,45,3A,Y3,X. germanus,Larvae,1,1,1,1
+Beech,94,45,2A,Z2,X. germanus,Larvae,1,1,1,1
+Beech,94,46,1A,X1,X. germanus,Larvae,0,1,1,1
+Beech,94,46,3B,Z4,X. germanus,Larvae,0,0,1,1
+Beech,94,47,5A,X3,X. germanus,Larvae,0,0,0,1
+Beech,94,47,0A,Y2,X. germanus,Larvae,0,0,1,1
+Beech,94,48,0B,Z3,X. germanus,Larvae,0,0,0,0
+Beech,94,48,1B,X4,X. germanus,Larvae,0,0,0,0
+Beech,94,49,4A,X2,X. germanus,Larvae,0,0,0,0
+Beech,94,49,2B,Z1,X. germanus,Larvae,0,0,0,0
+Beech,95,45,2A,Z4,X. germanus,Larvae,1,1,1,1
+Beech,95,45,0B,X4,X. germanus,Larvae,1,1,1,1
+Beech,95,46,1A,X1,X. germanus,Larvae,0,1,1,1
+Beech,95,46,5A,Z1,X. germanus,Larvae,0,1,1,1
+Beech,95,47,3B,Z2,X. germanus,Larvae,0,0,0,1
+Beech,95,47,3A,X3,X. germanus,Larvae,0,0,0,1
+Beech,95,48,2B,X2,X. germanus,Larvae,0,0,0,0
+Beech,95,48,0A,Y3,X. germanus,Larvae,0,0,0,0
+Beech,95,49,4A,Y2,X. germanus,Larvae,0,0,0,0
+Beech,95,49,1B,Z3,X. germanus,Larvae,0,0,0,0
+Beech,96,45,1B,X2,X. germanus,Larvae,1,1,1,1
+Beech,96,45,3B,X1,X. germanus,Larvae,1,1,1,1
+Beech,96,46,2B,Y3,X. germanus,Larvae,0,1,1,1
+Beech,96,46,0B,Z3,X. germanus,Larvae,0,1,1,1
+Beech,96,47,3A,X4,X. germanus,Larvae,0,0,0,1
+Beech,96,47,0A,Z4,X. germanus,Larvae,0,0,1,1
+Beech,96,48,1A,Z2,X. germanus,Larvae,0,0,0,0
+Beech,96,48,5A,Y2,X. germanus,Larvae,0,0,0,0
+Beech,96,49,2A,Z1,X. germanus,Larvae,0,0,0,0
+Beech,96,49,4A,X3,X. germanus,Larvae,0,0,0,0
+Beech,97,45,1B,Z2,X. crassiusculus,Larvae,1,1,1,1
+Beech,97,45,0A,Z4,X. crassiusculus,Larvae,1,1,1,1
+Beech,97,46,3A,X4,X. crassiusculus,Larvae,1,1,1,1
+Beech,97,46,1A,Y2,X. crassiusculus,Larvae,1,1,1,1
+Beech,97,47,5A,Z3,X. crassiusculus,Larvae,0,1,1,1
+Beech,97,47,4A,X1,X. crassiusculus,Larvae,0,1,1,1
+Beech,97,48,2A,Y3,X. crassiusculus,Larvae,0,0,1,1
+Beech,97,48,0B,X2,X. crassiusculus,Larvae,0,0,1,1
+Beech,97,49,3B,X3,X. crassiusculus,Larvae,0,0,0,1
+Beech,97,49,2B,Z1,X. crassiusculus,Larvae,0,0,0,1
+Beech,98,45,4A,Z4,X. crassiusculus,Larvae,1,1,1,1
+Beech,98,45,5A,X2,X. crassiusculus,Larvae,1,1,1,1
+Beech,98,46,2A,X1,X. crassiusculus,Larvae,1,1,1,1
+Beech,98,46,1A,X3,X. crassiusculus,Larvae,1,1,1,1
+Beech,98,47,0A,Y3,X. crassiusculus,Larvae,0,1,1,1
+Beech,98,47,3B,Y2,X. crassiusculus,Larvae,0,1,1,1
+Beech,98,48,2B,Z2,X. crassiusculus,Larvae,0,0,0,1
+Beech,98,48,3A,Z3,X. crassiusculus,Larvae,0,0,1,1
+Beech,98,49,1B,X4,X. crassiusculus,Larvae,0,0,0,1
+Beech,98,49,0B,Z1,X. crassiusculus,Larvae,0,0,0,1
+Beech,99,45,0B,X3,X. crassiusculus,Larvae,1,1,1,1
+Beech,99,45,4A,Z2,X. crassiusculus,Larvae,1,1,1,1
+Beech,99,46,0A,X4,X. crassiusculus,Larvae,1,1,1,1
+Beech,99,46,5A,X2,X. crassiusculus,Larvae,1,1,1,1
+Beech,99,47,3B,X1,X. crassiusculus,Larvae,0,1,1,1
+Beech,99,47,2B,Y3,X. crassiusculus,Larvae,0,1,1,1
+Beech,99,48,2A,Z3,X. crassiusculus,Larvae,0,0,1,1
+Beech,99,48,3A,Z1,X. crassiusculus,Larvae,0,0,1,1
+Beech,99,49,1A,Y2,X. crassiusculus,Larvae,0,0,0,0
+Beech,99,49,1B,Z4,X. crassiusculus,Larvae,0,0,0,1
+Beech,100,45,1A,Y3,X. crassiusculus,Larvae,1,1,1,1
+Beech,100,45,5A,X4,X. crassiusculus,Larvae,0,1,1,1
+Beech,100,46,1B,Z2,X. crassiusculus,Larvae,1,1,1,1
+Beech,100,46,3A,X3,X. crassiusculus,Larvae,1,1,1,1
+Beech,100,47,2A,Z4,X. crassiusculus,Larvae,0,1,1,1
+Beech,100,47,4A,Z3,X. crassiusculus,Larvae,0,1,1,1
+Beech,100,48,0B,Y2,X. crassiusculus,Larvae,0,0,1,1
+Beech,100,48,0A,X1,X. crassiusculus,Larvae,0,0,1,1
+Beech,100,49,3B,Z1,X. crassiusculus,Larvae,0,0,0,1
+Beech,100,49,2B,X2,X. crassiusculus,Larvae,0,0,0,1
+Red Maple,31,45,3B,X2,X. crassiusculus,Larvae,1,1,1,1
+Red Maple,31,45,4A,Z4,X. crassiusculus,Larvae,1,1,1,1
+Red Maple,31,46,0A,X3,X. crassiusculus,Larvae,1,1,1,1
+Red Maple,31,46,1B,X1,X. crassiusculus,Larvae,1,1,1,1
+Red Maple,31,47,5A,Z2,X. crassiusculus,Larvae,0,1,1,1
+Red Maple,31,47,3A,Y2,X. crassiusculus,Larvae,0,1,1,1
+Red Maple,31,48,2B,X4,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,31,48,2A,Y3,X. crassiusculus,Larvae,0,0,1,1
+Red Maple,31,49,0B,Z1,X. crassiusculus,Larvae,0,0,0,1
+Red Maple,31,49,1A,Z3,X. crassiusculus,Larvae,0,0,0,0
+Red Maple,32,45,1A,X4,X. crassiusculus,Larvae,1,1,1,1
+Red Maple,32,45,1B,Z3,X. crassiusculus,Larvae,1,1,1,1
+Red Maple,32,46,2A,Y2,X. crassiusculus,Larvae,1,1,1,1
+Red Maple,32,46,5A,Z2,X. crassiusculus,Larvae,1,1,1,1
+Red Maple,32,47,0A,Z1,X. crassiusculus,Larvae,0,1,1,1
+Red Maple,32,47,3B,Z4,X. crassiusculus,Larvae,0,0,1,1
+Red Maple,32,48,3A,Y3,X. crassiusculus,Larvae,0,0,0,1
+Red Maple,32,48,0B,X2,X. crassiusculus,Larvae,0,0,1,1
+Red Maple,32,49,2B,X1,X. crassiusculus,Larvae,0,0,0,1
+Red Maple,32,49,4A,X3,X. crassiusculus,Larvae,0,0,0,0
